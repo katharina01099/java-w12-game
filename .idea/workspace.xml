@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28d088ce-0045-4253-9abe-065c9dd467fc" name="Default Changelist" comment="" />
+    <list default="true" id="28d088ce-0045-4253-9abe-065c9dd467fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Warriors/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Warriors/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Warrior/Barbarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Warriors/Barbarian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Warrior/Dwarve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Warriors/Dwarve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Warrior/Knight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Warrior/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BarbarianTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BarbarianTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DwarveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DwarveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/KnightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KnightTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -20,97 +33,38 @@
     <session id="-2074066916">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="Git file" value="1" />
+          <entry key="JAVA" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="110" />
+          <entry key="java" value="1394" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="110" />
+          <entry key="JAVA" value="1394" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Magicians/Wizard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/WarlockTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/WizardTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Clerics/Cleric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ClericTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Rooms/Room.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Rooms/Dungeon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rooms/DarkRoom.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,11 +83,107 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/DungeonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Warriors/Warrior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Warriors/Knight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/KnightTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DwarveTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Warriors/Dwarve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <element signature="e#103#104#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Warriors/Barbarian.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -146,6 +196,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -326,7 +379,9 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="6203048097000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1784471948" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2267286057" />
       </map>
     </option>
@@ -443,10 +498,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Warrior/Warrior.java" />
         <option value="$PROJECT_DIR$/src/main/java/Warrior/Barbarian.java" />
         <option value="$PROJECT_DIR$/src/main/java/Warrior/Dwarve.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Warrior/Knight.java" />
         <option value="$PROJECT_DIR$/src/main/java/Magicians/Magicians.java" />
         <option value="$PROJECT_DIR$/src/main/java/Magicians/Warlock.java" />
         <option value="$PROJECT_DIR$/src/main/java/Magicians/Wizard.java" />
@@ -454,22 +507,32 @@
         <option value="$PROJECT_DIR$/src/main/java/Rooms/Room.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rooms/Dungeon.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rooms/DarkRoom.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/Warrior/Warrior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Warrior/Knight.java" />
+        <option value="$PROJECT_DIR$/src/test/java/KnightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Warriors/Warrior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Warriors/Barbarian.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DwarveTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Warriors/Dwarve.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BarbarianTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
+    <option name="x" value="129" />
     <option name="y" value="23" />
-    <option name="width" value="1139" />
-    <option name="height" value="777" />
+    <option name="width" value="1151" />
+    <option name="height" value="773" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -501,23 +564,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Clerics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-game" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Magicians" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-game" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-game" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Rooms" type="462c0819:PsiDirectoryNode" />
+              <item name="Warriors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-game" type="b2602c69:ProjectViewProjectNode" />
@@ -531,12 +578,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550765409293" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -549,6 +603,68 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in java-game_test (1)">
+    <configuration name="All in java-game_test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-game_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarbarianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-game_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BarbarianTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarbarianTest.hasDeadlyScream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-game_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BarbarianTest" />
+      <option name="METHOD_NAME" value="hasDeadlyScream" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DwarveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-game_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DwarveTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DwarveTest.canThrowFireball" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-game_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DwarveTest" />
+      <option name="METHOD_NAME" value="canThrowFireball" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DwarveTest" />
+      <item itemvalue="JUnit.All in java-game_test (1)" />
+      <item itemvalue="JUnit.DwarveTest.canThrowFireball" />
+      <item itemvalue="JUnit.BarbarianTest.hasDeadlyScream" />
+      <item itemvalue="JUnit.BarbarianTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in java-game_test (1)" />
+        <item itemvalue="JUnit.BarbarianTest" />
+        <item itemvalue="JUnit.BarbarianTest.hasDeadlyScream" />
+        <item itemvalue="JUnit.DwarveTest.canThrowFireball" />
+        <item itemvalue="JUnit.DwarveTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -563,92 +679,64 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="KnightTest - 2019.02.21 at 15h 48m 33s.xml">
+      <configuration name="KnightTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BarbarianTest - 2019.02.21 at 15h 55m 42s.xml">
+      <configuration name="BarbarianTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BarbarianTest_hasWeapon - 2019.02.21 at 15h 56m 25s.xml">
+      <configuration name="BarbarianTest.hasWeapon" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DwarveTest - 2019.02.21 at 16h 04m 24s.xml">
+      <configuration name="DwarveTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_java-game_test_(1) - 2019.02.21 at 16h 04m 31s.xml">
+      <configuration name="All in java-game_test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DwarveTest_canThrowFireball - 2019.02.21 at 16h 07m 28s.xml">
+      <configuration name="DwarveTest.canThrowFireball" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="23" width="1139" height="777" extended-state="0" />
+    <frame x="129" y="23" width="1151" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24934153" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20330147" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.329429" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32842416" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.329429" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32842416" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Warrior/Warrior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Warrior/Barbarian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Warrior/Dwarve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Warrior/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DwarveTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/KnightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Magicians/Magician.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -712,6 +800,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Rooms/DarkRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -728,8 +819,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/DungeonTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warriors/Warrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warriors/Knight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warriors/Barbarian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/KnightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Warriors/Dwarve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DwarveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BarbarianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="74" selection-start-line="27" selection-start-column="74" selection-end-line="27" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
