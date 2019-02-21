@@ -2,7 +2,7 @@ package Warriors;
 
 public abstract class Warrior {
 
-    protected String getWeapon;
+
     String name;
     String weapon;
 
