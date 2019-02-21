@@ -1,6 +1,6 @@
 package Magicians;
 
-public class Warlock extends Magician {
+public class Warlock extends Magician implements ICastspellable {
 
     public Warlock (String name, String magicalCreatures){
         super(name, magicalCreatures);
@@ -17,4 +17,8 @@ public class Warlock extends Magician {
     }
 
 
+    @Override
+    public String castSpell() {
+        return "Freeze";
+    }
 }

@@ -22,4 +22,9 @@ public class WizardTest {
     public void hasMagicalCreature(){
         assertEquals("Unicorn", wizard.getMagicalCreature());
     }
+
+    @Test
+    public void canCastSpell(){
+        assertEquals("Silence", wizard.castSpell());
+    }
 }

@@ -1,7 +1,7 @@
 package Magicians;
 
 
-public class Wizard extends Magician {
+public class Wizard extends Magician implements ICastspellable{
 
 
     public Wizard(String name, String magicalCreature){
@@ -16,5 +16,10 @@ public class Wizard extends Magician {
     @Override
     public String getMagicalCreature(){
         return super.getMagicalCreature();
+    }
+
+    @Override
+    public String castSpell() {
+        return "Silence";
     }
 }

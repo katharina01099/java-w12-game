@@ -18,4 +18,9 @@ public class WarlockTest {
         assertEquals("Irene", warlock.getName());
     }
 
+    @Test
+    public void canCastSpell(){
+        assertEquals("Freeze", warlock.castSpell());
+    }
+
 }
