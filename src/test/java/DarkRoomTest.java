@@ -10,11 +10,17 @@ public class DarkRoomTest {
 
     @Before
     public void before(){
-        darkRoom = new DarkRoom("Black Ghost");
+        darkRoom = new DarkRoom("Black Ghost", "Gold");
     }
 
     @Test
     public void hasName(){
         assertEquals("Black Ghost", darkRoom.getName());
     }
+
+    @Test
+    public void hasTreasure(){
+        assertEquals("Gold", darkRoom.getTreasure());
+    }
+
 }
