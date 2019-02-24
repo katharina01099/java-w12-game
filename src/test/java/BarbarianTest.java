@@ -2,6 +2,8 @@ import Warriors.Barbarian;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.util.ArrayList;
+
 import static org.junit.Assert.assertEquals;
 
 public class BarbarianTest {
@@ -10,7 +12,7 @@ public class BarbarianTest {
 
     @Before
     public void before(){
-        barbarian = new Barbarian("Bunny", "Golden Hammer");
+        barbarian = new Barbarian("Bunny", "Golden Hammer", "gold");
     }
 
     @Test
@@ -26,5 +28,10 @@ public class BarbarianTest {
     @Test
     public void hasDeadlyScream(){
         assertEquals("Rrrrrrrooooooaaaaarrrrr", barbarian.canScreamDeadly());
+    }
+
+    @Test
+    public void hasTreasure(){
+        assertEquals("I got gold", barbarian.getTreasure());
     }
 }

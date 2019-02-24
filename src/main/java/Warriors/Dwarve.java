@@ -1,8 +1,8 @@
 package Warriors;
 
 public class Dwarve extends Warrior {
-    public Dwarve(String name, String weapon) {
-        super(name, weapon);
+    public Dwarve(String name, String weapon, String treasure) {
+        super(name, weapon, treasure);
     }
 
     @Override

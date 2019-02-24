@@ -5,10 +5,12 @@ public abstract class Warrior {
 
     String name;
     String weapon;
+    String treasure;
 
-    public Warrior(String name, String weapon){
+    public Warrior(String name, String weapon, String treasure){
         this.name = name;
         this.weapon = weapon;
+        this.treasure = treasure;
     }
 
     public String getName() {
@@ -18,4 +20,9 @@ public abstract class Warrior {
     public String getWeapon(){
         return weapon;
     }
+
+    public String getTreasure(){
+        return treasure;
+    }
+
 }

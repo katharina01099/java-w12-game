@@ -10,7 +10,7 @@ public class DwarveTest {
 
     @Before
     public void before(){
-        dwarve = new Dwarve("Holger", "Schleuder");
+        dwarve = new Dwarve("Holger", "Schleuder", "magic stones");
     }
 
     @Test

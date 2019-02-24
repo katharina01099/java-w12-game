@@ -23,4 +23,9 @@ public class DarkRoomTest {
         assertEquals("Gold", darkRoom.getTreasure());
     }
 
+    @Test
+    public void canLooseTreasure(){
+        assertEquals(null, darkRoom.getTreasure());
+    }
+
 }

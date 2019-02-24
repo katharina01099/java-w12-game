@@ -1,8 +1,10 @@
 package Rooms;
 
+import java.util.ArrayList;
+
 public class DarkRoom extends Room {
 
-    String treasure;
+   private String treasure;
 
     public DarkRoom(String name, String treasure){
         super(name);
@@ -16,4 +18,10 @@ public class DarkRoom extends Room {
     public String getTreasure(){
         return this.treasure;
     }
+
+
+
+
+
+
 }

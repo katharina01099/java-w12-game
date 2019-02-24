@@ -10,7 +10,7 @@ public class KnightTest {
 
     @Before
     public void before(){
-        knight = new Knight("Henry the strong", "Black Sword");
+        knight = new Knight("Henry the strong", "Black Sword", "diamonds");
     }
 
     @Test
